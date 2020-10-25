@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+I‘m **cwher**.
+
+- :construction_worker: I'm currently a sophomore student major in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
+- :alarm_clock: trying to learn more about computer
+- 💬 More about me [profile]()
+
+[![cwher's github stats](https://github-readme-stats.vercel.app/api?username=cwher)](https://github.com/anuraghazra/github-readme-stats)
+
