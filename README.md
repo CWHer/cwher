@@ -23,5 +23,8 @@ I‘m **cwher**.
 - :alarm_clock: trying to learn more about computer
 - 💬 More about me [profile]()
 
-[![cwher's github stats](https://github-readme-stats.vercel.app/api?username=cwher)](https://github.com/anuraghazra/github-readme-stats)
+[![cwher's github stats](https://github-readme-stats.vercel.app/api?username=cwher&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+But I‘m not good at writing webs at all!
