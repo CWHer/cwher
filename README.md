@@ -21,7 +21,7 @@ I‘m **cwher**.
 
 - :construction_worker: I'm currently a sophomore student major in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
 - :alarm_clock: trying to learn more about computer
-- 💬 More about me profile [CN]()/[EN]()
+- 💬 More about me profile [CN](https://github.com/CWHer/cwher/blob/main/profile-cn.md)/[EN](https://github.com/CWHer/cwher/blob/main/profile-en.md)
 
 [![cwher's github stats](https://github-readme-stats.vercel.app/api?username=cwher&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
