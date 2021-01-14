@@ -29,7 +29,7 @@ Some toy projects mainly based on C++ and python.
   - (96/100) CS154:C++ Programming Language (2019 Fall)
   - (99/100) CS158:Data Structure(Honor) (2020 Spring)
   - (96/100) MS125:Principle and Practice of Computer Algorithms (2020 Summer)
-- (99/100) MA239:Discrete Mathematics (2020 Fall)
+  - (99/100) MA239:Discrete Mathematics (2020 Fall)
   - (100/100) CS241:Principles and Practice of Problem Solving (2020 Fall)
   
 - Some other courses
