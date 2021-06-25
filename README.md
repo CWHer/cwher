@@ -17,14 +17,11 @@ Here are some ideas to get you started:
 
 
 
-I‘m **cwher**.
+I‘m Wenhao Chen.
 
-- :construction_worker: I'm currently a sophomore student major in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
-- :alarm_clock: trying to learn more about computer
-- 💬 More about me profile [CN](https://github.com/CWHer/cwher/blob/main/profile-cn.md)/[EN](https://github.com/CWHer/cwher/blob/main/profile-en.md)
+- :construction_worker: I'm a sophomore student major in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
+- :alarm_clock: Learning pytorch and rust now.
+- 💬 More about me ([profile](https://github.com/CWHer/cwher/blob/main/profile-en.md))
 
 [![cwher's github stats](https://github-readme-stats.vercel.app/api?username=cwher&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-But I‘m not good at writing webs at all!
