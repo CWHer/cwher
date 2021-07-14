@@ -8,7 +8,7 @@ I'm a sophomore student major in Computer Science at [Shanghai Jiao Tong Univers
 
 #### Academic Status
 
-Fisrt 1.5 year GPA: 91.3/100, ranking: 11/120
+Fisrt 2 year GPA: 91.79/100, ranking: 8/120
 
 I gained knowledges from some foundation cs&math courses.
 
