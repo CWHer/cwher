@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 I‘m Wenhao Chen.
 
-- :construction_worker: I'm a sophomore student major in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
-- :alarm_clock: Learning pytorch and rust now.
+- :construction_worker: I'm a junior year student majoring in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
+- :seedling: Currently interested in RL, CO, ML.
+- :thinking: Looking for a summer intern or research.
 - 💬 More about me ([profile](https://github.com/CWHer/cwher/blob/main/profile-en.md))
 
 [![cwher's github stats](https://github-readme-stats.vercel.app/api?username=cwher&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
