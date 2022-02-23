@@ -38,5 +38,5 @@ jobs:
           output_action: gist
           committer_gist: ${{ secrets.GIST_ID }}
           plugin_stars: yes
-          plugin_stars_limit: 5
+          plugin_stars_limit: 6
           

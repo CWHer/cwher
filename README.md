@@ -95,5 +95,12 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-
+<div>
+    <div style="float:left">
+        <img width=400 alt="🦑" src="https://gist.github.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/general.svg">
+    </div>
+    <div style="float:right">
+        <img align="right" width=400 alt="🦑" src="https://gist.github.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/stars.svg">
+    </div>
+</div>
 
