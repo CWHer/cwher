@@ -20,7 +20,7 @@ jobs:
           base: ""
           config_order: habits, isocalendar
           output_action: gist
-          committer_gist: ${{ secrets.METRICS_TOKEN }}
+          committer_gist: ${{ secrets.GIST_ID }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_habits: yes
@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
-          committer_gist: ${{ secrets.METRICS_TOKEN }}
+          committer_gist: ${{ secrets.GIST_ID }}
           plugin_stars: yes
           plugin_stars_limit: 5
           
