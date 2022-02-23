@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" title="Numpy"></code>
 <code><img height="20" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" title="Qt"></code>
 <code><img height="20" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" title="Unity"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" title="Matlab"></code>
+<code><img height="20" src="https://img.shields.io/badge/matlab-fa5103?style=for-the-badge&logo=MATLAB&logoColor=white" alt="Matlab" title="Matlab"></code>
 
 
 **Tools and Environments**
