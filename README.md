@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Wenhao Chen
 
-![Metrics](https://metrics.lecoq.io/CWHer?template=classic&base.repositories=0&base.metadata=0&config.timezone=Asia%2FShanghai)
-
 - :star:: I'm a junior year student majoring in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
 - :thinking: Currently interested in RL, CO, ML.
 - :seedling: Looking for a summer intern or research.
@@ -87,7 +85,6 @@ Here are some ideas to get you started:
 </a>
 <code><img height="20" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic" title="Epic"></code>
 
-![Metrics](https://metrics.lecoq.io/CWHer?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&isocalendar=1&stars=1&isocalendar.duration=half-year&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai)
 
 
 
