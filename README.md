@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Wenhao Chen
+
+- :star:: I'm a junior year student majoring in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
+- :thinking: Currently interested in RL, CO, ML.
+- :seedling: Looking for a summer intern or research.
+- 💬 More about me ([Profile](https://github.com/CWHer/cwher/blob/main/profile-en.md))
 
 <!--
 **CWHer/cwher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +20,69 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <a href="https://github.com/CWHer" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=cwher&count_private=true&show_icons=true&theme=tokyonight" alt="Chen's Stats" >
+  </a>
+</p>
+
+<p align="center">
+<strong>Check out my work below!</strong>
+<br><br>
+  <a href="https://github.com/CWHer">
+    <img src="https://badges.pufler.dev/visits/CWHer/CWHer?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/CWHer">
+    <img src="https://badges.pufler.dev/years/CWHer?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/CWHer?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/CWHer?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/CWHer">
+    <img src="https://badges.pufler.dev/commits/monthly/CWHer?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+
+---
+
+<img align="right" alt="GIF" src="assets/code.gif" width="400" height="280" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+
+**Languages**
+
+<code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" title="Python"></code>
+<code><img height="20" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" title="Markdown"></code>
+<code><img height="20" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTex" title="LaTex"></code>
+<code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#"></code>
 
 
-I‘m Wenhao Chen.
+**Frameworks**
 
-- :construction_worker: I'm a junior year student majoring in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
-- :seedling: Currently interested in RL, CO, ML.
-- :thinking: Looking for a summer intern or research.
-- 💬 More about me ([profile](https://github.com/CWHer/cwher/blob/main/profile-en.md))
+<code><img height="20" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" title="Pytorch"></code>
+<code><img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" title="Numpy"></code>
+<code><img height="20" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" title="Qt"></code>
+<code><img height="20" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" title="Unity"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" title="Matlab"></code>
 
-[![cwher's github stats](https://github-readme-stats.vercel.app/api?username=cwher&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+**Tools and Environments**
+
+<code><img height="20" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"></code>
+<code><img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+" alt="vsc" title="vsc"></code>
+<code><img height="20" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="conda" title="conda"></code>
+<code><img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" title="docker"></code>
+<code><img height="20" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" title="tmux"></code>
+<code><img height="20" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="cmake" title="cmake"></code>
+<code><img height="20" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" title="ubuntu"></code>
+<code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" title="Linux"></code>
+<code><img height="20" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Win" title="Win"></code>
+
+
+**Game Platform :laughing:**
+
+<code><img height="20" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" title="Steam" href="https://steamcommunity.com/id/cwher/"></code>
+<code><img height="20" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic" title="Epic"></code>
+
+
 
