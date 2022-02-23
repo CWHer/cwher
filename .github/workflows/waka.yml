@@ -13,5 +13,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          COMMIT_MESSAGE: Update Wakapi stats
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
+          BLOCKS: "⬜🟨🟩"

@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 ---
 
-📊 **This Week I Spent My Time On:**
+:bar_chart: **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
