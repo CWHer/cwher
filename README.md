@@ -102,5 +102,5 @@ Python     2 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <div>
     <img align="left" width=395 alt="🦑" src="https://gist.github.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/general.svg">
-    <img align="right" width=395 alt="🦑" src="https://gist.github.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/stars.svg">
+    <img align="right" width=395 alt="🦑" src="https://gist.github.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/misc.svg">
 </div>
