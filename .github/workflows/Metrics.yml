@@ -21,11 +21,17 @@ jobs:
           config_order: habits, isocalendar
           output_action: gist
           committer_gist: ${{ secrets.GIST_ID }}
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
           plugin_habits: yes
+          plugin_habits_from: 100
+          plugin_habits_days: 30
           plugin_habits_facts: no
           plugin_habits_charts: yes
+
+          
           config_timezone: Asia/Shanghai
           
       - name: 🦑 Recently starred
@@ -35,8 +41,15 @@ jobs:
           filename: stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          config_order: wakatime, stars
           output_action: gist
           committer_gist: ${{ secrets.GIST_ID }}
+
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, languages, editors, os
+
           plugin_stars: yes
           plugin_stars_limit: 6
           
