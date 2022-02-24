@@ -3,7 +3,7 @@
 - :star:: I'm a junior year student majoring in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
 - :thinking: Currently interested in RL, CO, ML.
 - :seedling: Looking for a summer intern or research.
-- 💬 More about me ([Profile](https://github.com/CWHer/cwher/blob/main/profile-en.md))
+- 💬 More about me ([Profile](https://github.com/CWHer/cwher/blob/main/Resume-en.pdf))
 
 <!--
 **CWHer/cwher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -99,4 +99,3 @@ No Activity tracked this Week
     <img align="left" width=395 alt="🦑" src="https://gist.github.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/general.svg">
     <img align="right" width=395 alt="🦑" src="https://gist.github.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/stars.svg">
 </div>
-
