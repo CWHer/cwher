@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Wenhao Chen
 
-- :star:: I'm a junior year student majoring in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
+- :star: I'm a junior year student majoring in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
 - :thinking: Currently interested in RL, CO, ML.
-- :seedling: Looking for a summer intern or research.
+- :seedling: Looking for a summer research opportunity.
 - 💬 More about me ([Profile](https://github.com/CWHer/cwher/blob/main/Resume-en.pdf))
 
 <!--
