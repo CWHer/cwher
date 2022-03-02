@@ -20,32 +20,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <a href="https://github.com/CWHer" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=cwher&count_private=true&show_icons=true&theme=tokyonight" alt="Chen's Stats" >
-  </a>
-</p>
+<div align="center">
+    <p>
+        <a href="https://github.com/CWHer" class="rich-diff-level-one">
+            <img src="https://github-readme-stats.vercel.app/api?username=cwher&count_private=true&show_icons=true&theme=tokyonight"
+                alt="Chen's Stats">
+        </a>
+    </p>
+</div>
 
-<p align="center">
-<strong>Check out my work below!</strong>
-<br><br>
-  <a href="https://github.com/CWHer">
-    <img src="https://badges.pufler.dev/visits/CWHer/CWHer?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/CWHer">
-    <img src="https://badges.pufler.dev/years/CWHer?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/CWHer?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/CWHer?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/CWHer">
-    <img src="https://badges.pufler.dev/commits/all/CWHer?style=flat-square&color=black&logo=github">
-  </a>
-</p>
+<div align="center">
+    <p>
+        <strong>Check out my work below!</strong>
+        <br><br>
+        <a href="https://github.com/CWHer">
+            <img src="https://badges.pufler.dev/visits/CWHer/CWHer?style=flat-square&color=black&logo=github">
+        </a>
+        <a href="https://github.com/CWHer">
+            <img src="https://badges.pufler.dev/years/CWHer?style=flat-square&color=black&logo=github">
+        </a>
+        <a href="https://github.com/CWHer?tab=repositories">
+            <img src="https://badges.pufler.dev/repos/CWHer?style=flat-square&color=black&logo=github">
+        </a>
+        <a href="https://github.com/CWHer">
+            <img src="https://badges.pufler.dev/commits/all/CWHer?style=flat-square&color=black&logo=github">
+        </a>
+    </p>
+</div>
 
 ---
 
-<img align="right" alt="GIF" src="assets/code.gif" width="400" height="280" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img style="float: right; width: 45%; min-width: 400px; margin: 5px;" alt="GIF" src="assets/code.gif"
+    title="Do what you like, and do it best!">
+
 
 **Languages**
 
@@ -81,7 +88,7 @@ Here are some ideas to get you started:
 **Game Platform :laughing:**
 
 <a href="https://steamcommunity.com/id/cwher/">
-<code><img height="20" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" title="Steam"></code>
+        <code><img height="20" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" title="Steam"></code>
 </a>
 <code><img height="20" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic" title="Epic"></code>
 
@@ -91,19 +98,21 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 February 2022 - To: 28 February 2022
+From: 22 February 2022 - To: 01 March 2022
 
-YAML       1 hr 25 mins    🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.35 %
-Python     1 hr 25 mins    🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.23 %
-Markdown   1 hr 24 mins    🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.75 %
-HTML       14 mins         🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.12 %
-Other      3 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.28 %
+Python     1 hr 31 mins    🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.92 %
+Markdown   1 hr 28 mins    🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.01 %
+YAML       1 hr 25 mins    🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.05 %
+HTML       14 mins         🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.91 %
+Other      5 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.85 %
 ```
 
 <!--END_SECTION:waka-->
 
 
-<div>
-    <img align="left" width=395 alt="🦑" src="https://gist.github.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/general.svg">
-    <img align="right" width=395 alt="🦑" src="https://gist.github.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/misc.svg">
+<div align="center">
+    <img style="float: center; width: 45%; min-width: 300px; margin: 5px;" alt="🦑"
+        src="https://gist.github.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/general.svg">
+    <img style="float: center; width: 45%; min-width: 300px; margin: 5px;" alt="🦑"
+        src="https://gist.github.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/misc.svg">
 </div>
