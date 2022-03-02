@@ -109,8 +109,8 @@ Other      5 mins          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 <div align="center">
-    <img style="float: center; width: 45%; min-width: 300px; margin: 5px;" alt="🦑"
+    <img style="float: center; width: 48%; min-width: 300px; margin: 2px;" alt="🦑"
         src="https://gist.github.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/general.svg">
-    <img style="float: center; width: 45%; min-width: 300px; margin: 5px;" alt="🦑"
+    <img style="float: center; width: 48%; min-width: 300px; margin: 2px;" alt="🦑"
         src="https://gist.github.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/misc.svg">
 </div>
