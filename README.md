@@ -50,9 +50,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img style="float: right; width: 45%; min-width: 400px; margin: 5px;" alt="GIF" src="assets/code.gif"
-    title="Do what you like, and do it best!">
-
+<img align="right" alt="GIF" width="50%" src="assets/code.gif" title="Do what you like, and do it best!">
 
 **Languages**
 
@@ -88,7 +86,7 @@ Here are some ideas to get you started:
 **Game Platform :laughing:**
 
 <a href="https://steamcommunity.com/id/cwher/">
-        <code><img height="20" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" title="Steam"></code>
+<code><img height="20" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" title="Steam"></code>
 </a>
 <code><img height="20" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic" title="Epic"></code>
 
