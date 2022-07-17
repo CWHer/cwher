@@ -30,22 +30,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-    <p>
-        <strong>Check out my work below!</strong>
-        <br><br>
-        <a href="https://github.com/CWHer">
-            <img src="https://badges.pufler.dev/visits/CWHer/CWHer?style=flat-square&color=black&logo=github">
-        </a>
-        <a href="https://github.com/CWHer">
-            <img src="https://badges.pufler.dev/years/CWHer?style=flat-square&color=black&logo=github">
-        </a>
-        <a href="https://github.com/CWHer?tab=repositories">
-            <img src="https://badges.pufler.dev/repos/CWHer?style=flat-square&color=black&logo=github">
-        </a>
-        <a href="https://github.com/CWHer">
-            <img src="https://badges.pufler.dev/commits/all/CWHer?style=flat-square&color=black&logo=github">
-        </a>
-    </p>
+    <a href="https://github.com/CWHer">
+        <img src="https://gist.githubusercontent.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/730da27a88d8f9183b3ba8be06a2be34d6cb8b82/basic.svg">
+    </a>
 </div>
 
 ---
