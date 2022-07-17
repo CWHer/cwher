@@ -10,7 +10,18 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-    
+      - name: 🦑 Basic
+        uses: lowlighter/metrics@latest
+        with:
+          filename: basic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          
+          plugin_lines: yes
+          plugin_traffic: yes
+
       - name: 🦑 General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -29,7 +40,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          
           config_timezone: Asia/Shanghai
           
       - name: 🦑 Misc
