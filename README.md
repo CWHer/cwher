@@ -1,8 +1,15 @@
 ### Hi there 👋, I'm Wenhao Chen
 
-- :star: I'm a junior year student majoring in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
-- :thinking: Currently interested in ML System.
-- :seedling: Looking for a summer research opportunity.
+- :star: I'm a senior year student majoring in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
+
+- :thinking: I’m broadly interested in the intersection of machine learning, systems, and computer architecture.
+
+  - Efficient and scalable machine learning systems
+
+  - Accelerating machine learning training and inference on heterogeneous hardwares
+
+- :seedling: Looking for Ph.D. (M.S.) programs that start in Fall 2023.
+
 - 💬 More about me ([CV](https://github.com/CWHer/cwher/blob/main/Resume-en.pdf))
 
 <!--
