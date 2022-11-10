@@ -10,7 +10,7 @@
 
 - :seedling: Looking for Ph.D. (M.S.) programs that start in Fall 2023.
 
-- 💬 More about me ([CV](https://github.com/CWHer/cwher/blob/main/Resume-en.pdf))
+- 💬 More about me ([CV](https://github.com/CWHer/cwher/blob/main/CV.pdf))
 
 <!--
 **CWHer/cwher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
