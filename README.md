@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Wenhao Chen
 
-- :star: I'm a senior year student majoring in Computer Science at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/)
+- :star: I'm a senior year student majoring in Computer Science at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
 
 - :thinking: I’m broadly interested in the intersection of machine learning, systems, and computer architecture.
 
