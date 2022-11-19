@@ -2,9 +2,9 @@
 
 - :star: I'm a senior year student majoring in Computer Science at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
 
-- :thinking: I’m broadly interested in the intersection of machine learning, systems, and computer architecture.
+- :thinking: I’m broadly interested in the intersection of machine learning, computer systems, and computer architecture.
 
-  - Efficient and scalable machine learning systems
+  - Efficient and affordable machine learning systems
 
   - Accelerating machine learning training and inference on heterogeneous hardwares
 
