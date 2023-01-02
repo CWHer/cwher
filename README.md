@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://github.com/CWHer">
-        <img src="https://gist.githubusercontent.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/730da27a88d8f9183b3ba8be06a2be34d6cb8b82/basic.svg">
+        <img src="https://gist.githubusercontent.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/basic.svg">
     </a>
 </div>
 
