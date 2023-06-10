@@ -8,7 +8,7 @@
 
   - Accelerating machine learning training and inference on heterogeneous hardwares
 
-- :seedling: Looking for Ph.D. (M.S.) programs that start in Fall 2023.
+- :seedling: Looking for Ph.D. (M.S.) programs that start in Fall 2024.
 
 - 💬 More about me ([CV](https://github.com/CWHer/cwher/blob/main/CV.pdf))
 
