@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm Wenhao Chen
 
-- :star: I'm a senior year student majoring in Computer Science at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
+- :star: I received my B.S. in Computer Science and Technology from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2023.
 
 - :thinking: I’m broadly interested in the intersection of machine learning, computer systems, and computer architecture.
 
   - Efficient and affordable machine learning systems
 
-  - Accelerating machine learning training and inference on heterogeneous hardwares
+  - Accelerating machine learning training and inference on heterogeneous hardware
 
 - :seedling: Looking for Ph.D. (M.S.) programs that start in Fall 2024.
 
-- 💬 More about me ([CV](https://github.com/CWHer/cwher/blob/main/CV.pdf))
+- 💬 More about me ([CV](https://github.com/CWHer/cwher/blob/main/CV.pdf), latest update 2023/6)
 
 <!--
 **CWHer/cwher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
