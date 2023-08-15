@@ -2,13 +2,13 @@
 
 - :star: I received my B.S. in Computer Science and Technology from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2023.
 
-- :thinking: I’m broadly interested in the intersection of machine learning, computer systems, and computer architecture.
+- :thinking: I’m broadly interested in the intersection of computer systems, machine learning, and computer architecture.
 
   - Efficient and affordable machine learning systems
 
   - Accelerating machine learning training and inference on heterogeneous hardware
 
-- :seedling: Looking for Ph.D. (M.S.) programs that start in Fall 2024.
+- :seedling: Looking for internships that end in May 2024.
 
 - 💬 More about me ([CV](https://github.com/CWHer/cwher/blob/main/CV.pdf), latest update 2023/6)
 
