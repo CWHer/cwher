@@ -10,6 +10,8 @@
 
 - :seedling: Looking for internships that end in May 2024.
 
+- :warning: My GitHub personal website is currently under reconstruction, you can view some of my repos.
+
 - 💬 More about me ([CV](https://github.com/CWHer/cwher/blob/main/CV.pdf), latest update 2023/6)
 
 <!--
@@ -77,6 +79,7 @@ Here are some ideas to get you started:
 ---
 
 :bar_chart: **This week I spent my time on:**
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -90,7 +93,6 @@ Text         0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
 <!--END_SECTION:waka-->
-
 
 <div align="center">
     <img style="float: center; width: 48%; min-width: 300px; margin: 2px;" alt="🦑"
