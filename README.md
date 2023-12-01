@@ -8,7 +8,7 @@
 
   - Accelerating machine learning training and inference on heterogeneous hardware
 
-- :seedling: Looking for internships that end in May 2024.
+- :seedling: Incoming Ph.D. candidate at the University of Waterloo.
 
 - :warning: My GitHub personal website is currently under reconstruction, you can view some of my repos.
 
