@@ -2,15 +2,11 @@
 
 - :star: I received my B.S. in Computer Science and Technology from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2023.
 
-- :thinking: I’m broadly interested in the intersection of computer systems, machine learning, and computer architecture.
-
-  - Efficient and affordable machine learning systems
-
-  - Accelerating machine learning training and inference on heterogeneous hardware
+- :thinking: Currently, my research interest lies in how to serve LLM efficiently. (Maybe later DiT.)
 
 - :seedling: MMath at the University of Waterloo.
 
-- :warning: My GitHub personal website is currently under reconstruction, you can view some of my repos.
+- :warning: My GitHub personal website is under reconstruction, you can view some of my repos.
 
 - 💬 More about me ([CV](https://github.com/CWHer/cwher/blob/main/CV.pdf), latest update 2023/12)
 
